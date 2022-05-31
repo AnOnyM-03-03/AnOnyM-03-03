@@ -3,7 +3,8 @@
 <h1 align="center">𝓗𝓲 𝓽𝓱𝓮𝓻𝓮, 𝓘'𝓶 𝓓𝓶𝓲𝓽𝓻𝓲𝓳 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 -  🌱 My tech stack: Vue, Vuex
--  📫 How to reach me:<a href="https://t.me/inevitability_itself">Telegram</a>,<a href="mailto:tolstov-d@internet.ru">email</a>
+-  📫 How to reach me:<a href="https://t.me/inevitability_itself">Telegram</a>
+-  <a href="mailto:tolstov-d@internet.ru">email</a>
 -  🔬 Especially like: Js
 -  👀 My Hobbies: volleyball, coding
 <h3 align="left">Languages and Tools:</h3>
