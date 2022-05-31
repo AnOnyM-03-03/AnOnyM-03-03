@@ -1,16 +1,17 @@
-### Hi there 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=27F794&lines=Welcome+to+my+profile+github)
 
-<!--
-**AnOnyM-03-03/AnOnyM-03-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">𝓗𝓲 𝓽𝓱𝓮𝓻𝓮, 𝓘'𝓶 𝓓𝓶𝓲𝓽𝓻𝓲𝓳 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+-  🌱 My tech stack: Vue, Vuex
+-  📫 How to reach me:<a href="https://t.me/inevitability_itself">Telegram</a>,<a href="mailto:tolstov-d@internet.ru">email</a>
+-  🔬 Especially like: Js
+-  👀 My Hobbies: volleyball, coding
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<img src="images\figma.png" alt="figma"/>
+<img src="images\css.png" alt="css"/>
+<img src="images\git.png" alt="git"/>
+<img src="images\html.png" alt="html"/>
+<img src="images\js.png" alt="js"/>
+<img src="images\vue.png" alt="vue"/>
+</p>
