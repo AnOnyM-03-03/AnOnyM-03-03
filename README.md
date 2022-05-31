@@ -8,10 +8,10 @@
 -  👀 My Hobbies: volleyball, coding
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img src="images\figma.png" alt="figma"/>
-<img src="images\css.png" alt="css"/>
-<img src="images\git.png" alt="git"/>
-<img src="images\html.png" alt="html"/>
-<img src="images\js.png" alt="js"/>
-<img src="images\vue.png" alt="vue"/>
+<img src="images\figma.png" alt="figma" width='40' height='40'/>
+<img src="images\css.png" alt="css" width='40' height='40'/>
+<img src="images\git.png" alt="git" width='40' height='40'/>
+<img src="images\html.png" alt="html" width='40' height='40'/>
+<img src="images\js.png" alt="js" width='40' height='40'/>
+<img src="images\vue.png" alt="vue" width='40' height='40'/>
 </p>
